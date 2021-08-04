@@ -354,3 +354,10 @@ node_modules
 
 #ignore IDE setting files
 .idea
+/confusion/public/assets/images/logo.png
+/confusion/public/assets/images/alberto.png
+/confusion/public/assets/images/buffet.png
+/confusion/public/assets/images/elaicheesecake.png
+/confusion/public/assets/images/uthappizza.png
+/confusion/public/assets/images/vadonut.png
+/confusion/public/assets/images/zucchipakoda.png
